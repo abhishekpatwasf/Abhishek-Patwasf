@@ -60,35 +60,6 @@ Learning to work with Lightning Flow, Visualforce, and declarative automation to
 </ul>
 
 
-<h2>Business & Consulting Skills</h2>
-
-<hr>
-
-<ul>
-  <li>Client requirement gathering & solutioning</li>
-  <li>Agile methodologies (Scrum/Kanban)</li>
-  <li>Business process mapping and optimization</li>
-  <li>Pre-sales support, demos, and RFPs</li>
-  <li>Stakeholder & cross-functional team management</li>
-  <li>Functional documentation, training & enablement</li>
-  <li>Project estimation, roadmap planning, and delivery</li>
-  <li>Industry-specific solutioning (Real Estate, BFSI, Healthcare)</li>
-</ul>
-
-<h2>Industries Experience</h2>
-<ul>
- <li>Healthcare and life Science</li>
- <li>Financial Services</li>
- <li>Retail E commerce</li> 
- <li>Telecommunications</li> 
- <li>Consumer Good</li> 
- <li>Media and Entertainment</li>
- <li>Government and Public Sector</li>
- <li>Energy and Utilities</li>
- <li>Professional Serviced</li>
- <li>Sports and Event Management</li>
-  </ul>
-<hr>
 
   
 <h2>Skills</h2>
