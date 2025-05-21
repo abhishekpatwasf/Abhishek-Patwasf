@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sunny Patwa</h1>
-<h3 align="center"> Certified Salesforce Expert, Architect and CRM Consultant </h3>
+<h1 align="center">Hi 👋, I'm Abhishek Patwa</h1>
+<h3 align="center"> Certified Salesforce Developer </h3>
 
 <h3 align="left">🎓 Salesforce Certifications</h3>
 <p align="left">
