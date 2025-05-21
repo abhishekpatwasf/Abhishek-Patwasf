@@ -28,19 +28,14 @@
 
 
 
--Hands-on practice with custom objects, validation rules, flows, and basic automation tools
--Understanding of SDLC and Agile methodology (Scrum)
--Learning data migration techniques and Salesforce integration basics
--Committed to continuous learning and working toward Salesforce certifications
--Strong communication skills and eager to collaborate with cross-functional teams
--Passionate about solving business problems using Salesforce and growing within the ecosystem
 
-<li> -Hands-on practice with custom objects, validation rules, flows, and basic automation tools  </li>
-<li>-Understanding of SDLC and Agile methodology (Scrum)  </li>
-<li>-Learning data migration techniques and Salesforce integration basics  </li>
-<li> -Committed to continuous learning and working toward Salesforce certifications </li>
-<li>-Passionate about solving business problems using Salesforce and growing within the ecosystem  </li>
-<li>-Strong communication skills and eager to collaborate with cross-functional teams  </li>
+
+<li> Hands-on practice with custom objects, validation rules, flows, and basic automation tools  </li>
+<li> Understanding of SDLC and Agile methodology (Scrum)  </li>
+<li> Learning data migration techniques and Salesforce integration basics  </li>
+<li> Committed to continuous learning and working toward Salesforce certifications </li>
+<li> Passionate about solving business problems using Salesforce and growing within the ecosystem  </li>
+<li> Strong communication skills and eager to collaborate with cross-functional teams  </li>
 
 
 
