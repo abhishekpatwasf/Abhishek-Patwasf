@@ -49,16 +49,14 @@
 <hr>
 
 <ul>
-  <li>Apex, Visualforce, Lightning Flow, Lightning Web Components (LWC), SOQL, SOSL</li>
-  <li>Omnistudio (Vlocity), Salesforce CPQ, Revenue Cloud, Field Service</li>
-  <li>Experience Cloud (Communities), Marketing Cloud (Pardot)</li>
-  <li>Integration: REST/SOAP APIs, MuleSoft, Middleware tools</li>
-  <li>Data Loader, Workbench, ETL tools, Shield, Event Monitoring</li>
-  <li>CI/CD (Gearset, Copado), Git, DevOps practices</li>
-  <li>Salesforce DX, Scratch Orgs, Unlocked Packages</li>
-  <li>AppExchange App Development & ISV process</li>
-  <li>Security: Role Hierarchies, Sharing Rules, OAuth2.0</li>
-  <li>Testing: Apex Test Classes, Automation Scripts, UAT</li>
+<li>   Basic understanding of Apex, SOQL, SOSL, and Lightning Web Components (LWC)</li>
+  <li> 
+Learning to work with Lightning Flow, Visualforce, and declarative automation tools</li>
+  <li>Introductory exposure to OmniStudio (Vlocity), Salesforce CPQ, and Revenue Cloud</li>
+  <li>Familiar with Experience Cloud (Communities) and basics of Marketing Cloud (Pardot)</li>
+  <li>Exploring REST/SOAP APIs, MuleSoft, and common integration patterns</li>
+  <li>Hands-on practice with Data Loader, Workbench, and basic data operations</li>
+  <li>Gaining insights into AppExchange app development and ISV processes</li>
 </ul>
 
 
