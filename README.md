@@ -84,17 +84,11 @@ Learning to work with Lightning Flow, Visualforce, and declarative automation to
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/patwasunny" target="blank">
+  <a href="https://www.linkedin.com/in/abhishekpatwaciphermetic" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/30348204/sunny-patwa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://ciphermeticconsulting.com/" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
-  </a>
-  <a href="https://x.com/SunnyPatwa98" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="X (Twitter)" height="30" width="40" />
   </a>
 </p>
 
