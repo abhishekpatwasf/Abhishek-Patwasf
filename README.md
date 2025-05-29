@@ -49,19 +49,15 @@
 <hr>
 
 <ul>
-<li>   Basic understanding of Apex, SOQL, SOSL, and Lightning Web Components (LWC)</li>
-  <li> 
-Learning to work with Lightning Flow, Visualforce, and declarative automation tools</li>
-  <li>Introductory exposure to OmniStudio (Vlocity), Salesforce CPQ, and Revenue Cloud</li>
-  <li>Familiar with Experience Cloud (Communities) and basics of Marketing Cloud (Pardot)</li>
-  <li>Exploring REST/SOAP APIs, MuleSoft, and common integration patterns</li>
-  <li>Hands-on practice with Data Loader, Workbench, and basic data operations</li>
-  <li>Gaining insights into AppExchange app development and ISV processes</li>
+  <li>Proficient in Apex programming, SOQL/SOSL queries, and Lightning Web Components (LWC) development</li>
+  <li>Experienced with Lightning Flow, Visualforce, and declarative automation tools for scalable business solutions</li>
+  <li>Hands-on exposure to OmniStudio (Vlocity), Salesforce CPQ, and Revenue Cloud in enterprise environments</li>
+  <li>Skilled in configuring and customizing Experience Cloud (Communities); working knowledge of Marketing Cloud (Pardot)</li>
+  <li>Implemented REST/SOAP integrations and familiar with MuleSoft and standard integration design patterns</li>
+  <li>Extensive use of Data Loader, Workbench, and other data manipulation tools for migrations and updates</li>
+  <li>Understanding of AppExchange app development lifecycle and ISV publishing processes</li>
 </ul>
 
-
-
-  
 <h2>Skills</h2>
 
 ![Salesforce CRM](https://img.shields.io/badge/-Salesforce%20CRM-blueviolet)
