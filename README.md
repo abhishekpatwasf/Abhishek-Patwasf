@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnycipher&label=Profile%20views&color=0e75b6&style=flat" alt="sunnycipher" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnycipher" alt="sunnycipher" /></a> </p>
+
 
 <li>As a 6x Certified Salesforce Developer, Consultant and Architect with 6+ years of experience and
  50,000+ hours dedicated to building scalable, high-performing Salesforce solutions.</li>
